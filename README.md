@@ -7,7 +7,7 @@ Coming soon
 
 <h2>ALX Foundations Project</h2>
 
-- [Link to Slides](https://docs.google.com/presentation/d/1J46yR4DBzJY9z5wJIGqQsy5Mb_7rzZwh/edit?usp=sharing&ouid=117585624489841631330&rtpof=true&sd=true)
+- [Link to Slides](https://drive.google.com/file/d/1SCRjZIxKuevaVHJ04GpCDXFq_9_cSOwo/view?usp=sharing)
 - [Link to video presentation](https://youtu.be/KJLrvu4-wvk)
 
 <h2> GIS Projects </h2>
