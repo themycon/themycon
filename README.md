@@ -5,6 +5,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 Coming soon
 
+<h2>ALX Foundations Project</h2>
+
+- [Link to Slides](https://docs.google.com/presentation/d/1J46yR4DBzJY9z5wJIGqQsy5Mb_7rzZwh/edit?usp=sharing&ouid=117585624489841631330&rtpof=true&sd=true)
+- [Link to video presentation](https://youtu.be/KJLrvu4-wvk)
+
 <h2> GIS Projects </h2>
 
 - [Catchment Area map for digital microplannning](https://www.linkedin.com/posts/michael-turyasingura_gisday-qgis-grid3-activity-7131186925167611904-kYVV?utm_source=share&utm_medium=member_desktop) 
