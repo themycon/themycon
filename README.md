@@ -1,5 +1,5 @@
 <h1>Hello, I'm Michael! <br/><a href="https://github.com/themycon"> Software Engineer</a>, 
-<a href="https://www.linkedin.com/in/joshmadakor/">Health Informatics Specialist</a>,  
+<a href="https://www.linkedin.com/in/michael-turyasingura/">Health Informatics Specialist</a>,  
 <a href="https://www.youtube.com/channel/UCIB3QXDAE39CCac6QK7KUqQ">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
